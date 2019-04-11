@@ -3,7 +3,8 @@
  */
 public class Library {
 	public static void main(String arg[]) {
-		System.out.println("Here is the Trump.");
+		System.out.println("Here is the Kim.");
+		System.out.println("also change the output.");
 	}
     public boolean someLibraryMethod() {
         return true;
